@@ -1,0 +1,41 @@
+/* styles
+
+hero and footer:
+
+dark background color
+#1F2937
+
+Hero Main Text ("this website is awesome")
+48px extra-bold #F9FAF8
+
+Hero Secondary text, header Link Text
+18px #E5E7EB
+
+Header Logo Text
+24px #F9FAF8
+
+Button color, call to action background color
+#3882F6
+
+information header text
+36px extra-bold #1F2937
+
+quote section background color
+color: #E5E7EB
+
+quote text
+36px light italic #1F2937
+
+*/
+
+:root{
+    /* hero, footer, info header, and quote text */
+    --color-main: #1F2937;
+    /* main text and logo */
+    --main-color: #F9FAF8;
+    /* hear link text and quote section background color */
+    --secondary-color: #E5E7EB;
+    /* button */
+    --button-color: #3882F6;
+}
+
