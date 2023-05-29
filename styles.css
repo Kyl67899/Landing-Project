@@ -39,3 +39,16 @@ quote text
     --button-color: #3882F6;
 }
 
+body{
+    font-family: roboto;
+}
+
+/* Nav bar */
+
+
+/* Nav bar */
+
+/* logo */
+.logo{
+    color: var(--main-color);
+}
