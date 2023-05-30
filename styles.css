@@ -39,6 +39,7 @@ quote text
     --button-color: #3882F6;
 }
 
+/* body */
 body{
     font-family: roboto;
     margin: 0;
@@ -48,7 +49,7 @@ body{
 }
 
 /* Nav bar */
-nav{
+.nav-bar{
     background-color: var(--color-main);
     margin: 0;
     padding: 0;
@@ -56,14 +57,11 @@ nav{
 
 .logo{
     text-align: left;
-    
-    /* display: flex; */
-    /* text-align: right; */
-    /* margin: 0; */
-    /* padding: 0; */
+    margin: 0;
+    padding: 0;
 }
 
-nav ul {
+.nav-bar ul li{
     list-style: none;
 }
 
