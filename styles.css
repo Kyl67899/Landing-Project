@@ -48,7 +48,7 @@ body{
 }
 
 /* Nav bar */
-#nav-bar{
+nav{
     background-color: var(--color-main);
     margin: 0;
     padding: 0;
@@ -63,7 +63,7 @@ body{
     /* padding: 0; */
 }
 
-ul li{
+nav ul {
     list-style: none;
 }
 
