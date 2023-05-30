@@ -55,7 +55,12 @@ body{
 }
 
 .logo{
-    display: flex;
+    text-align: left;
+    
+    /* display: flex; */
+    /* text-align: right; */
+    /* margin: 0; */
+    /* padding: 0; */
 }
 
 ul li{
